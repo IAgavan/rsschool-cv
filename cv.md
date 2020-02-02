@@ -1,6 +1,6 @@
 #rsschool-cv 
 
-This CV To be updated....
+This CV To be updated...
 
 1. Ivan Agapitov
 
