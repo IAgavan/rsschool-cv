@@ -14,7 +14,7 @@ Discord: IAgavan #5391
 
 5. Code examples could be found at https://github.com/IAgavan.
 
-6. Experience: just an education tasks from courses.
+6. Experience: just education tasks from courses.
 
 7. Education: Here mentioned only IT-releated education:
   Offline courses of basic HTML/CSS and basic JavaScript from NIIT:http://www.nniit.ru/
